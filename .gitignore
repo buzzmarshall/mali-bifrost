@@ -56,3 +56,6 @@ panfrost-autogen/
 
 # We don't want to commit this by default
 config
+
+# Buzz don't track my patches
+.patches/
